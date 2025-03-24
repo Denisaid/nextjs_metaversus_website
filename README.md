@@ -1,7 +1,7 @@
 ## Nextjs_Metaversus_Website 
 
 You can view the site here
-[Click Me](https://dds-metaversus-website.netlify.app/)
+[Click Me](https://nextjs-metaversus-website.vercel.app/)
 
 
 ## :books: Table of Contents
